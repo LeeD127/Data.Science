@@ -1,0 +1,25 @@
+request positive number from user
+if the user does not enter "0", then request again until the user enters "0"
+once the user enters "0", order the numbers previously entered from largest to smallest
+print the first number in the list
+
+request name from user
+store as first_name
+print name of user which is stored as first_name
+print "Hello World"
+
+#assuming the list already exists
+calculate the sum of all numbers
+divide the sum by the number of numbers in the list
+
+user to input list and add a 1 in the end if not yet bought
+user to add a 2 in the end if bought
+sort list in alphabetical order according to the first letter of each product
+if there is a 1 in the end of the product, print the product without printing the number in the end
+else do not print.
+
+user to input 2 numbers:x and y
+calculate the sum of x and y and save the answer as S
+divide s by 2 and save answer as A
+multply x by y and save the answer as P
+print S, A and P
